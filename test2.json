@@ -1,0 +1,10 @@
+[{"contact_id":1,"firstname":"John","lastname":"Doe","email":"john.doe@testing.com","phone":"+1234567890","salary":456465.0,"DoB":"2001-02-10"},
+{"contact_id":2,"firstname":"Jane","lastname":"Doe","email":"jane.doe@testing.com","phone":"+1234567894","salary":12345.0,"DoB":"1995-05-22"},
+{"contact_id":3,"firstname":"Henry","lastname":"Doe","email":"henry.doe@testing.com","phone":"+1234567893","salary":78944.999999999999999,"DoB":"1994-04-25"},
+{"contact_id":4,"firstname":"Sarah","lastname":"Doe","email":"sarah.doe@testing.com","phone":"+1234567892","salary":12345.0,"DoB":"2012-03-12"},
+{"contact_id":5,"firstname":"Bob","lastname":"Doe","email":"bob.doe@testing.com","phone":"+1234567891","salary":null,"DoB":null}]
+[{"contact_id":4,"firstname":"Sarah","lastname":"Doe","email":"sarah.doe@testing.com","phone":"+1234567892","salary":12345.0,"DoB":"2012-03-12"},
+{"contact_id":1,"firstname":"John","lastname":"Doe","email":"john.doe@testing.com","phone":"+1234567890","salary":456465.0,"DoB":"2001-02-10"},
+{"contact_id":2,"firstname":"Jane","lastname":"Doe","email":"jane.doe@testing.com","phone":"+1234567894","salary":12345.0,"DoB":"1995-05-22"},
+{"contact_id":3,"firstname":"Henry","lastname":"Doe","email":"henry.doe@testing.com","phone":"+1234567893","salary":78944.999999999999999,"DoB":"1994-04-25"},
+{"contact_id":5,"firstname":"Bob","lastname":"Doe","email":"bob.doe@testing.com","phone":"+1234567891","salary":null,"DoB":null}]
